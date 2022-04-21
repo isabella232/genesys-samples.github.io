@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Genesys Experience as a Service</title><link>https://workshop.live.genesys.com/categories/</link><description>Recent content in Categories on Genesys Experience as a Service</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://workshop.live.genesys.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Fundamentals</title><link>https://workshop.live.genesys.com/categories/fundamentals/</link><pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate><guid>https://workshop.live.genesys.com/categories/fundamentals/</guid><description/></item><item><title>Developer</title><link>https://workshop.live.genesys.com/categories/developer/</link><pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate><guid>https://workshop.live.genesys.com/categories/developer/</guid><description/></item><item><title>Fundmanetals</title><link>https://workshop.live.genesys.com/categories/fundmanetals/</link><pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate><guid>https://workshop.live.genesys.com/categories/fundmanetals/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Genesys Experience as a Service</title>
+    <link>/categories.html</link>
+    <description>Recent content in Categories on Genesys Experience as a Service</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fundamentals</title>
+      <link>/categories/fundamentals.html</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/fundamentals.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developer</title>
+      <link>/categories/developer.html</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/developer.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundmanetals</title>
+      <link>/categories/fundmanetals.html</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/fundmanetals.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
