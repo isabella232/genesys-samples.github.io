@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Integrations on Genesys Experience as a Service</title>
-    <link>/tags/integrations.html</link>
+    <link>https://genesys-samples.github.io/tags/integrations/</link>
     <description>Recent content in Integrations on Genesys Experience as a Service</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/integrations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://genesys-samples.github.io/tags/integrations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Genesys Cloud CX™️ Harbor Tour</title>
-      <link>/card/gride-demo.html</link>
+      <link>https://genesys-samples.github.io/card/gride-demo/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/card/gride-demo.html</guid>
+      <guid>https://genesys-samples.github.io/card/gride-demo/</guid>
       <description>Learn how to setup &amp;amp; configure Genesys Cloud CX™️</description>
     </item>
     

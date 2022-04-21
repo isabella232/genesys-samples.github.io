@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multicloud on Genesys Experience as a Service</title>
-    <link>/tags/multicloud.html</link>
+    <link>https://genesys-samples.github.io/tags/multicloud/</link>
     <description>Recent content in Multicloud on Genesys Experience as a Service</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/multicloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://genesys-samples.github.io/tags/multicloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with Genesys Multicloud CX™</title>
-      <link>/card/multicloud-basics.html</link>
+      <link>https://genesys-samples.github.io/card/multicloud-basics/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/card/multicloud-basics.html</guid>
+      <guid>https://genesys-samples.github.io/card/multicloud-basics/</guid>
       <description>Learn how to deploy and configure Genesys Multicloud CX™ with a step-by-step guide and automated provisioning</description>
     </item>
     

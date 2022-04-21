@@ -1,6 +1,6 @@
 [
 {
-	"uri": "/card/multicloud-basics.html",
+	"uri": "https://genesys-samples.github.io/card/multicloud-basics/",
 	"title": "Getting Started with Genesys Multicloud CX™",
 	"tags": ["Multicloud", "CX"],
 	"categories": ["Fundamentals"],
@@ -8,7 +8,7 @@
 	"content": "Learn how to deploy and configure Genesys Multicloud CX™ with a step-by-step guide and automated provisioning\n"
 },
 {
-	"uri": "/card/cxascode-basics.html",
+	"uri": "https://genesys-samples.github.io/card/cxascode-basics/",
 	"title": "Automation with CX as Code",
 	"tags": ["Terraform", "Lambda", "Comprehend", "Architect", "Flows", "Cloud"],
 	"categories": ["Fundmanetals", "Developer"],
@@ -16,7 +16,7 @@
 	"content": "Learn how deploy a Genesys Cloud Architect flow and its dependent objects using Archy and CX as Code to manage Architect flows and dependent objects as plain text files that can be checked into source control.\n"
 },
 {
-	"uri": "/card/gride-demo.html",
+	"uri": "https://genesys-samples.github.io/card/gride-demo/",
 	"title": "Genesys Cloud CX™️ Harbor Tour",
 	"tags": ["Cloud", "Integrations"],
 	"categories": ["Fundamentals"],

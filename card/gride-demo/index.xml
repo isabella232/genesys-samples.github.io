@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genesys Cloud CX™️ Harbor Tour on Genesys Experience as a Service</title>
-    <link>/card/gride-demo.html</link>
+    <link>https://genesys-samples.github.io/card/gride-demo/</link>
     <description>Recent content in Genesys Cloud CX™️ Harbor Tour on Genesys Experience as a Service</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/card/gride-demo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://genesys-samples.github.io/card/gride-demo/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

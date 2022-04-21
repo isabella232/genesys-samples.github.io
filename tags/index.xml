@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Genesys Experience as a Service</title>
-    <link>/tags.html</link>
+    <link>https://genesys-samples.github.io/tags/</link>
     <description>Recent content in Tags on Genesys Experience as a Service</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://genesys-samples.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CX</title>
-      <link>/tags/cx.html</link>
+      <link>https://genesys-samples.github.io/tags/cx/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cx.html</guid>
+      <guid>https://genesys-samples.github.io/tags/cx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multicloud</title>
-      <link>/tags/multicloud.html</link>
+      <link>https://genesys-samples.github.io/tags/multicloud/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/multicloud.html</guid>
+      <guid>https://genesys-samples.github.io/tags/multicloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Architect</title>
-      <link>/tags/architect.html</link>
+      <link>https://genesys-samples.github.io/tags/architect/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/architect.html</guid>
+      <guid>https://genesys-samples.github.io/tags/architect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud</title>
-      <link>/tags/cloud.html</link>
+      <link>https://genesys-samples.github.io/tags/cloud/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cloud.html</guid>
+      <guid>https://genesys-samples.github.io/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comprehend</title>
-      <link>/tags/comprehend.html</link>
+      <link>https://genesys-samples.github.io/tags/comprehend/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/comprehend.html</guid>
+      <guid>https://genesys-samples.github.io/tags/comprehend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flows</title>
-      <link>/tags/flows.html</link>
+      <link>https://genesys-samples.github.io/tags/flows/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/flows.html</guid>
+      <guid>https://genesys-samples.github.io/tags/flows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrations</title>
-      <link>/tags/integrations.html</link>
+      <link>https://genesys-samples.github.io/tags/integrations/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/integrations.html</guid>
+      <guid>https://genesys-samples.github.io/tags/integrations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lambda</title>
-      <link>/tags/lambda.html</link>
+      <link>https://genesys-samples.github.io/tags/lambda/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/lambda.html</guid>
+      <guid>https://genesys-samples.github.io/tags/lambda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terraform</title>
-      <link>/tags/terraform.html</link>
+      <link>https://genesys-samples.github.io/tags/terraform/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/terraform.html</guid>
+      <guid>https://genesys-samples.github.io/tags/terraform/</guid>
       <description></description>
     </item>
     

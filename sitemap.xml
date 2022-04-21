@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/card.html</loc>
+    <loc>https://genesys-samples.github.io/card/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories.html</loc>
+    <loc>https://genesys-samples.github.io/categories/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cx.html</loc>
+    <loc>https://genesys-samples.github.io/tags/cx/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/fundamentals.html</loc>
+    <loc>https://genesys-samples.github.io/categories/fundamentals/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://genesys-samples.github.io/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/card/multicloud-basics.html</loc>
+    <loc>https://genesys-samples.github.io/card/multicloud-basics/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/multicloud.html</loc>
+    <loc>https://genesys-samples.github.io/tags/multicloud/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags.html</loc>
+    <loc>https://genesys-samples.github.io/tags/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/architect.html</loc>
+    <loc>https://genesys-samples.github.io/tags/architect/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/card/cxascode-basics.html</loc>
+    <loc>https://genesys-samples.github.io/card/cxascode-basics/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cloud.html</loc>
+    <loc>https://genesys-samples.github.io/tags/cloud/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/comprehend.html</loc>
+    <loc>https://genesys-samples.github.io/tags/comprehend/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/developer.html</loc>
+    <loc>https://genesys-samples.github.io/categories/developer/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/flows.html</loc>
+    <loc>https://genesys-samples.github.io/tags/flows/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/fundmanetals.html</loc>
+    <loc>https://genesys-samples.github.io/categories/fundmanetals/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/card/gride-demo.html</loc>
+    <loc>https://genesys-samples.github.io/card/gride-demo/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/integrations.html</loc>
+    <loc>https://genesys-samples.github.io/tags/integrations/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/lambda.html</loc>
+    <loc>https://genesys-samples.github.io/tags/lambda/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/terraform.html</loc>
+    <loc>https://genesys-samples.github.io/tags/terraform/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url>
 </urlset>

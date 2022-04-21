@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terraform on Genesys Experience as a Service</title>
-    <link>/tags/terraform.html</link>
+    <link>https://genesys-samples.github.io/tags/terraform/</link>
     <description>Recent content in Terraform on Genesys Experience as a Service</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/terraform/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://genesys-samples.github.io/tags/terraform/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automation with CX as Code</title>
-      <link>/card/cxascode-basics.html</link>
+      <link>https://genesys-samples.github.io/card/cxascode-basics/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/card/cxascode-basics.html</guid>
+      <guid>https://genesys-samples.github.io/card/cxascode-basics/</guid>
       <description>Learn how deploy a Genesys Cloud Architect flow and its dependent objects using Archy and CX as Code to manage Architect flows and dependent objects as plain text files that can be checked into source control.</description>
     </item>
     
